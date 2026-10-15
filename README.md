@@ -37,6 +37,7 @@ Strongest in **networking** and **server-side web** security.
 ![PHP](https://img.shields.io/badge/PHP-F8C8DC?style=flat-square&logo=php&logoColor=B03A6E)
 ![HTML5](https://img.shields.io/badge/HTML5-F8C8DC?style=flat-square&logo=html5&logoColor=B03A6E)
 ![CSS3](https://img.shields.io/badge/CSS3-F8C8DC?style=flat-square&logo=css3&logoColor=B03A6E)
+![JavaScript](https://img.shields.io/badge/JavaScript-F8C8DC?style=flat-square&logo=javascript&logoColor=B03A6E)
 
 Network security &middot; server-side web &middot; OSINT &middot; virtualization &middot; electronics / soldering / RF &middot; Linux administration
 
