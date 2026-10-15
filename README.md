@@ -18,6 +18,7 @@ CLI, a REST API and a terminal UI.
 ## Root-Me
 
 Handle **White** &middot; 2,295 points &middot; 120 challenges solved.
+Strongest in **steganography** and **cryptanalysis**, then forensics and system.
 
 ## Stack & focus
 
