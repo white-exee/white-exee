@@ -40,7 +40,7 @@ Strongest in **networking** and **server-side web** security.
 
 Network security &middot; server-side web &middot; OSINT &middot; virtualization &middot; electronics / soldering / RF &middot; Linux administration
 
-**Network:** ARP spoofing / MITM, protocol attacks, packet crafting, Wi-Fi / WEP, RF signal analysis, Cisco.
+**Network:** ARP spoofing / MITM, protocol attacks (Kerberos, NTLM, SNMP, SIP, OSPF, LDAP…), DNS rebinding, packet crafting & analysis, RF / GSM signal capture, Bluetooth, Cisco.
 
 **Web exploitation:** SQL injection, XSS, LFI, file upload, command injection, JWT.
 
