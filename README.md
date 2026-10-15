@@ -44,6 +44,8 @@ Network security &middot; server-side web &middot; OSINT &middot; virtualization
 
 **Web exploitation:** SQL injection (blind, time-based, filter bypass, file read), XSS, LFI & path traversal, command injection, file upload bypass, XPath injection, CRLF, JWT, HTTP tampering (verb, headers, redirects), API flaws (broken access, mass assignment), GraphQL, Nginx misconfig.
 
+**Governance & compliance:** GDPR / data protection, data protection impact assessments (DPIA / PIA), incident response.
+
 ## GitHub
 
 <p align="center">
