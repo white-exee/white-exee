@@ -18,7 +18,7 @@ CLI, a REST API and a terminal UI.
 ## Root-Me
 
 Handle **White** &middot; 2,295 points &middot; 120 challenges solved.
-Strongest in **networking** and **cryptanalysis**.
+Strongest in **networking** and **server-side web** security.
 
 ## Stack & focus
 
