@@ -1,5 +1,5 @@
 <h1 align="center">White</h1>
-<p align="center"><b>Offensive security &middot; Networks &middot; OSINT</b></p>
+<p align="center"><b>Offensive security &middot; network &amp; web &middot; OSINT &middot; GDPR compliance</b></p>
 
 ---
 
