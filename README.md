@@ -33,8 +33,14 @@ Strongest in **networking** and **server-side web** security.
 ![Git](https://img.shields.io/badge/Git-F8C8DC?style=flat-square&logo=git&logoColor=B03A6E)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-F8C8DC?style=flat-square&logo=virtualbox&logoColor=B03A6E)
 ![VMware](https://img.shields.io/badge/VMware-F8C8DC?style=flat-square&logo=vmware&logoColor=B03A6E)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-F8C8DC?style=flat-square&logo=burpsuite&logoColor=B03A6E)
+![PHP](https://img.shields.io/badge/PHP-F8C8DC?style=flat-square&logo=php&logoColor=B03A6E)
+![HTML5](https://img.shields.io/badge/HTML5-F8C8DC?style=flat-square&logo=html5&logoColor=B03A6E)
+![CSS3](https://img.shields.io/badge/CSS3-F8C8DC?style=flat-square&logo=css3&logoColor=B03A6E)
 
 Network security &middot; server-side web &middot; OSINT &middot; virtualization &middot; electronics / soldering / RF &middot; Linux administration
+
+**Web exploitation:** SQL injection, XSS, LFI, file upload, command injection, JWT.
 
 ## GitHub
 
