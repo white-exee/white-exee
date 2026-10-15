@@ -44,4 +44,4 @@ OSINT &middot; cryptography &middot; steganography &middot; network security &mi
 ## Links
 
 [![GitHub](https://img.shields.io/badge/GitHub-F8C8DC?style=flat-square&logo=github&logoColor=B03A6E)](https://github.com/white-exee)
-[![Root-Me](https://img.shields.io/badge/Root--Me-F8C8DC?style=flat-square&logoColor=B03A6E)](https://www.root-me.org/white)
+[![Root-Me](https://img.shields.io/badge/Root--Me-F8C8DC?style=flat-square&logoColor=B03A6E)](https://www.root-me.org/white-822755)
