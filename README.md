@@ -34,7 +34,7 @@ Strongest in **networking** and **server-side web** security.
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-F8C8DC?style=flat-square&logo=virtualbox&logoColor=B03A6E)
 ![VMware](https://img.shields.io/badge/VMware-F8C8DC?style=flat-square&logo=vmware&logoColor=B03A6E)
 
-Network security &middot; server-side web &middot; OSINT &middot; virtualization &middot; electronics / RF &middot; Linux administration
+Network security &middot; server-side web &middot; OSINT &middot; virtualization &middot; electronics / soldering / RF &middot; Linux administration
 
 ## GitHub
 
