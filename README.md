@@ -17,7 +17,7 @@ CLI, a REST API and a terminal UI.
 
 ## Root-Me
 
-Handle **White** &middot; ~2,100 points &middot; 110+ challenges solved.
+Handle **White** &middot; 2,295 points &middot; 120 challenges solved.
 
 ## Stack & focus
 
@@ -43,4 +43,4 @@ OSINT &middot; cryptography &middot; steganography &middot; network security &mi
 ## Links
 
 [![GitHub](https://img.shields.io/badge/GitHub-F8C8DC?style=flat-square&logo=github&logoColor=B03A6E)](https://github.com/white-exee)
-[![Root-Me](https://img.shields.io/badge/Root--Me-F8C8DC?style=flat-square&logoColor=B03A6E)](https://www.root-me.org/White)
+[![Root-Me](https://img.shields.io/badge/Root--Me-F8C8DC?style=flat-square&logoColor=B03A6E)](https://www.root-me.org/white)
