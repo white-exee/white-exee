@@ -42,7 +42,7 @@ Network security &middot; server-side web &middot; OSINT &middot; virtualization
 
 **Network:** ARP spoofing / MITM, protocol attacks (Kerberos, NTLM, SNMP, SIP, OSPF, LDAP…), DNS rebinding, packet crafting & analysis, RF / GSM signal capture, Bluetooth, Cisco.
 
-**Web exploitation:** SQL injection, XSS, LFI, file upload, command injection, JWT.
+**Web exploitation:** SQL injection (blind, time-based, filter bypass, file read), XSS, LFI & path traversal, command injection, file upload bypass, XPath injection, CRLF, JWT, HTTP tampering (verb, headers, redirects), API flaws (broken access, mass assignment), GraphQL, Nginx misconfig.
 
 ## GitHub
 
