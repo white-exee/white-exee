@@ -3,10 +3,9 @@
 
 ---
 
-Cybersecurity and networking student. I write small security tools, grind
-CTF / Root-Me challenges, and take things apart in my home lab to understand
-how they actually work: Linux, networks, cryptography, steganography, RF and
-OSINT.
+I write small security tools, break CTF / Root-Me challenges, and take things
+apart in my home lab to understand how they actually work: Linux, networks,
+cryptography, steganography, RF and OSINT.
 
 ## Featured project
 
