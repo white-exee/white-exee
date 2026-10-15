@@ -31,8 +31,10 @@ Strongest in **networking** and **server-side web** security.
 ![Cisco](https://img.shields.io/badge/Cisco-F8C8DC?style=flat-square&logo=cisco&logoColor=B03A6E)
 ![Wireshark](https://img.shields.io/badge/Wireshark-F8C8DC?style=flat-square&logo=wireshark&logoColor=B03A6E)
 ![Git](https://img.shields.io/badge/Git-F8C8DC?style=flat-square&logo=git&logoColor=B03A6E)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-F8C8DC?style=flat-square&logo=virtualbox&logoColor=B03A6E)
+![VMware](https://img.shields.io/badge/VMware-F8C8DC?style=flat-square&logo=vmware&logoColor=B03A6E)
 
-OSINT &middot; cryptography &middot; steganography &middot; network security &middot; RF / SDR &middot; Linux administration
+Network security &middot; server-side web &middot; OSINT &middot; virtualization &middot; electronics / RF &middot; Linux administration
 
 ## GitHub
 
