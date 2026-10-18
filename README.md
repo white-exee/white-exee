@@ -7,13 +7,18 @@ I write small security tools, break CTF / Root-Me challenges, and take things
 apart in my home lab to understand how they actually work: networks, web,
 Linux, hardware &amp; RF, cryptography, steganography and OSINT.
 
-## Featured project
+## Featured projects
 
 ### [Scryn](https://github.com/white-exee/Scryn)
 
 OSINT recon from a single identifier (username, email, phone or domain) across
-**80+ public sources**, with **zero false positives** by calibration. Ships as a
-CLI, a REST API and a terminal UI.
+**80+ public sources**, with **zero false positives** by calibration. CLI, REST
+API and a terminal UI.
+
+### [FrostNet](https://github.com/white-exee/FrostNet)
+
+TCP port scanner with **version detection**, **security flags** and **subnet
+sweeps**, plus a 0–100 exposure score per host. Pure Python, no dependencies.
 
 ## Root-Me
 
